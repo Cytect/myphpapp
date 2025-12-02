@@ -104,7 +104,7 @@ session_start();
         <div class="login-card">
             <div class="logo">
                 <h1><i class="fas fa-utensils me-2"></i>Flavor Haven</h1>
-                <p>Admin Login Portal</p>
+                <p>Admin Login Portal 1</p>
             </div>
 
             <?php

@@ -154,7 +154,7 @@
         <div class="container">
             <div class="header-section">
                 <h1><i class="fas fa-shopping-cart me-3"></i>Order Management</h1>
-                <p class="mt-3">Track and manage customer orders in real-time</p>
+                <p class="mt-3">Manage customer orders in real-time</p>
                 <a href="new-order.php" class="btn btn-primary mt-3">
                     <i class="fas fa-plus-circle me-2"></i> Create New Order
                 </a>
